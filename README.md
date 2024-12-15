@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Ciência da Computação, atualmente no último ano da graduação, com paixão por desenvolvimento de software e segurança da informação. Durante o curso, desenvolvi projetos que me proporcionaram uma sólida base em programação, análise de algoritmos e criptografia.</p>
+<p align="left">Sou estudante de Ciência da Computação, atualmente no último ano da graduação, com paixão por segurança de sistemas de informação. Durante o curso, desenvolvi projetos que me proporcionaram uma sólida base em programação, análise de algoritmos e criptografia.</p>
 
 ###
 
